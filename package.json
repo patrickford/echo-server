@@ -1,0 +1,25 @@
+{
+  "name": "echo-server",
+  "version": "1.0.0",
+  "description": "Node server that echoes back server request details",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrickford/echo-server.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Patrick Ford",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patrickford/echo-server/issues"
+  },
+  "homepage": "https://github.com/patrickford/echo-server#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
